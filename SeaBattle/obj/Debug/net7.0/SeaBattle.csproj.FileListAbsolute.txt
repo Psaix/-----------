@@ -1,0 +1,15 @@
+C:\My Stuff\С# - обучение, проекты\Ozon Contest February 2024\Морской бой\SeaBattle\bin\Debug\net7.0\SeaBattle.exe
+C:\My Stuff\С# - обучение, проекты\Ozon Contest February 2024\Морской бой\SeaBattle\bin\Debug\net7.0\SeaBattle.deps.json
+C:\My Stuff\С# - обучение, проекты\Ozon Contest February 2024\Морской бой\SeaBattle\bin\Debug\net7.0\SeaBattle.runtimeconfig.json
+C:\My Stuff\С# - обучение, проекты\Ozon Contest February 2024\Морской бой\SeaBattle\bin\Debug\net7.0\SeaBattle.dll
+C:\My Stuff\С# - обучение, проекты\Ozon Contest February 2024\Морской бой\SeaBattle\bin\Debug\net7.0\SeaBattle.pdb
+C:\My Stuff\С# - обучение, проекты\Ozon Contest February 2024\Морской бой\SeaBattle\obj\Debug\net7.0\SeaBattle.csproj.AssemblyReference.cache
+C:\My Stuff\С# - обучение, проекты\Ozon Contest February 2024\Морской бой\SeaBattle\obj\Debug\net7.0\SeaBattle.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Stuff\С# - обучение, проекты\Ozon Contest February 2024\Морской бой\SeaBattle\obj\Debug\net7.0\SeaBattle.AssemblyInfoInputs.cache
+C:\My Stuff\С# - обучение, проекты\Ozon Contest February 2024\Морской бой\SeaBattle\obj\Debug\net7.0\SeaBattle.AssemblyInfo.cs
+C:\My Stuff\С# - обучение, проекты\Ozon Contest February 2024\Морской бой\SeaBattle\obj\Debug\net7.0\SeaBattle.csproj.CoreCompileInputs.cache
+C:\My Stuff\С# - обучение, проекты\Ozon Contest February 2024\Морской бой\SeaBattle\obj\Debug\net7.0\SeaBattle.dll
+C:\My Stuff\С# - обучение, проекты\Ozon Contest February 2024\Морской бой\SeaBattle\obj\Debug\net7.0\refint\SeaBattle.dll
+C:\My Stuff\С# - обучение, проекты\Ozon Contest February 2024\Морской бой\SeaBattle\obj\Debug\net7.0\SeaBattle.pdb
+C:\My Stuff\С# - обучение, проекты\Ozon Contest February 2024\Морской бой\SeaBattle\obj\Debug\net7.0\SeaBattle.genruntimeconfig.cache
+C:\My Stuff\С# - обучение, проекты\Ozon Contest February 2024\Морской бой\SeaBattle\obj\Debug\net7.0\ref\SeaBattle.dll
